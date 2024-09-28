@@ -13,3 +13,8 @@ int main(void) {
   exit(0);
 }
 ```
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [x] I'm going out of order!
